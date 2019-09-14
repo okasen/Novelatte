@@ -27,6 +27,9 @@
       "primary-medium" : "443311",
       "primary-high" : "665533",
       "primary-very-high" : "FFDDDD"
+      "secondary-low" : "DDDDDD",
+      "secondary-medium" : "EEEEEE",
+      "secondary-high" : "FFFFFF"
 
     }
   },
