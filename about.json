@@ -20,7 +20,14 @@
       "highlight": "ffff4d",
       "danger": "e45735",
       "success": "aaff00",
-      "love": "ffdccc"
+      "love": "ffdccc",
+      "primary-low" : "000000"
+      "primary-very-low" : "000000"
+      "primary-low-mid" : "000000"
+      "primary-medium" : "000000"
+      "primary-high" : "000000"
+      "primary-very-high" : "000000"'
+
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
