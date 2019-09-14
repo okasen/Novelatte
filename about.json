@@ -24,9 +24,9 @@
       "primary-low" : "secondary",
       "primary-very-low" : "000000",
       "primary-low-mid" : "000000",
-      "primary-medium" : "FF0000",
-      "primary-high" : "00FF00",
-      "primary-very-high" : "0000FF"
+      "primary-medium" : "AA9977",
+      "primary-high" : "CCBB99",
+      "primary-very-high" : "DDDDDD"
 
     }
   },
