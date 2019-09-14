@@ -21,10 +21,10 @@
       "danger": "e45735",
       "success": "aaff00",
       "love": "ffdccc",
-      "primary-low" : "000000",
+      "primary-low" : "FFFFFF",
       "primary-very-low" : "000000",
       "primary-low-mid" : "000000",
-      "primary-medium" : "FFFFFF",
+      "primary-medium" : "000000", //edits unknown attribute
       "primary-high" : "000000",
       "primary-very-high" : "000000"
 
