@@ -1,0 +1,27 @@
+{
+  "name": "Test",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "New Color Scheme": {
+      "primary": "221500",
+      "secondary": "ddccaa",
+      "tertiary": "000000",
+      "quaternary": "504030",
+      "header_background": "887755",
+      "header_primary": "333333",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "aaff00",
+      "love": "ffdccc"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
