@@ -23,10 +23,10 @@
       "love": "ffdccc",
       "primary-low" : "secondary",
       "primary-very-low" : "000000",
-      "primary-low-mid" : "FFFFFF",
-      "primary-medium" : "000000",
-      "primary-high" : "000000",
-      "primary-very-high" : "000000"
+      "primary-low-mid" : "000000",
+      "primary-medium" : "FF0000",
+      "primary-high" : "00FF00",
+      "primary-very-high" : "0000FF"
 
     }
   },
