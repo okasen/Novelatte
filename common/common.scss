@@ -18,9 +18,5 @@ tbody {
 .posts-wrapper, .topic-list {
  background : #fcecda;
  border-radius : 5px 45px 45px 45px;
- border-top : none;
-}
-
-.row::before, .row::after {
-;
+ border-width : 0px;
 }
