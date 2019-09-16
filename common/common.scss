@@ -3,15 +3,13 @@
  border-radius : 0px 15px 15px 15px;
 }
 
-.container {
+
+ 
+.posts-wrapper, .topic-list {
  background : #fcecda;
  border-radius : 5px 45px 45px 45px;
 }
- 
-.title-wrapper {
-background-color : transparent;
-}
 
-.list-controls {
-background-color : transparent;
+.row::before, .row::after {
+ display : none;
 }
