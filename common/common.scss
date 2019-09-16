@@ -1,9 +1,11 @@
-.topic-map {
+.topic-map, .btn {
  background : #ffffdd;
  border-radius : 0px 15px 15px 15px;
 }
 
-
+hr {
+ color : #FF0000;
+}
  
 .posts-wrapper, .topic-list {
  background : #fcecda;
@@ -11,5 +13,5 @@
 }
 
 .row::before, .row::after {
- display : none;
+;
 }
