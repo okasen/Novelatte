@@ -7,8 +7,12 @@
  border : none;
 }
 
+thead {
+ border-bottom : none;
+}
+
 tbody {
- border-top : #000000;
+ border-top : #none;
 }
  
 .posts-wrapper, .topic-list {
