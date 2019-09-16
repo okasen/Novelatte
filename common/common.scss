@@ -14,10 +14,16 @@ tr {
 tbody {
  border-top : none;
 }
- 
-.posts-wrapper, .topic-list {
+
+.topic-list {
  background : #fcecda;
  border-radius : 5px 45px 45px 45px;
+ border-width : 0px;
+}
+
+.posts-wrapper {
+ background : #fcecda;
+ border-radius : 0px 45px 45px 45px;
  border-width : 0px;
 }
 
