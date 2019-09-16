@@ -20,3 +20,7 @@ tbody {
  border-radius : 5px 45px 45px 45px;
  border-width : 0px;
 }
+
+.row::before, .row::after {
+ display : none;
+}
