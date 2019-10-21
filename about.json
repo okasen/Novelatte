@@ -25,12 +25,13 @@
       "primary-very-low" : "887755",
       "primary-low-mid" : "c89999",
       "primary-medium" : "443311",
-      "primary-high" : "ccaa88",
+      "primary-high" : "665533",
       "primary-very-high" : "FFDDDD",
       "secondary-low" : "DDDDDD",
       "secondary-medium" : "EEEEEE",
-      "secondary-high" : "FFFFFF"
-
+      "secondary-high" : "FFFFFF",
+      "tertiary-high" : "FF0000",
+      "tertiary-high" : "FF0000"
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
