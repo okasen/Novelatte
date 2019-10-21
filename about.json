@@ -30,8 +30,7 @@
       "secondary-low" : "DDDDDD",
       "secondary-medium" : "EEEEEE",
       "secondary-high" : "FFFFFF",
-      "tertiary-low" : "FF0000",
-      "tertiary-mid" : "00FF00"
+      "header_primary-high" : "FBB5E3"
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
