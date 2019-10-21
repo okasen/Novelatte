@@ -31,7 +31,7 @@
       "secondary-medium" : "EEEEEE",
       "secondary-high" : "FFFFFF",
       "header_primary-high" : "FBB5E3",
-      "highlight_low" : "DD5577",
+      "highlight-low" : "DD5577",
       "highlight-medium" : "DD5577"
     }
   },
