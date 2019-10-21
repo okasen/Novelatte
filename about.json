@@ -31,8 +31,8 @@
       "secondary-medium" : "EEEEEE",
       "secondary-high" : "FFFFFF",
       "header_primary-high" : "FBB5E3",
-      "highlight-low" : "AA7788",
-      "highlight-medium" : "AA7788"
+      "highlight-low" : "FFAA88",
+      "highlight-medium" : "FFAA88"
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
