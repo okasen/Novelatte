@@ -1,2 +1,2 @@
 # Novelatte
-An easy-on-the-eyes theme for caffeinated writers
+An easy-on-the-eyes Discourse theme for caffeinated NaNoWriMo writers
